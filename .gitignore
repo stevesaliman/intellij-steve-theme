@@ -1,6 +1,5 @@
 .idea/
 *.jar
-*.iml
 /out
 
 .DS_Store
