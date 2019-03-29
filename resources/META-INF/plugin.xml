@@ -1,8 +1,8 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
+  <id>net.saliman.intellij.theme</id>
   <name>Steve's GTK Theme</name>
-  <version>0.1</version>
-  <vendor email="support@saliman.net" url="http://www.yourcompany.com">YourCompany</vendor>
+  <version>0.3</version>
+  <vendor email="support@saliman.net" url="http://www.saliman.net">Steve</vendor>
 
   <description><![CDATA[
       Custom theme that replaces the gery of Darcula to something a bit more
@@ -10,7 +10,7 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      Initial version
+      Initial version of the project with the colors I like.
     ]]>
   </change-notes>
 

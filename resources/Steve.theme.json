@@ -5,7 +5,8 @@
 	"editorScheme": "/Steve.xml",
 	"ui": {
 		"*": {
-			"background": "#006060"
-		}
+			"background": "#006060",
+			"foreground": "#000000"
+		},
 	}
 }
