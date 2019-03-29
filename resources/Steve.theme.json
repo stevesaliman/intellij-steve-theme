@@ -1,0 +1,11 @@
+{
+	"name": "Steve",
+	"dark": true,
+	"author": "Steven C. Saliman",
+	"editorScheme": "/Steve.xml",
+	"ui": {
+		"*": {
+			"background": "#006060"
+		}
+	}
+}
