@@ -1,8 +1,8 @@
 {
-	"name": "Steve",
-	"dark": false,
+	"name": "Steve-Dark",
+	"dark": true,
 	"author": "Steven C. Saliman",
-	"editorScheme": "/Steve.xml",
+	"editorScheme": "/Steve_Dark.xml",
 	"ui": {
 		"*": {
 			"background": "#006060",
@@ -10,18 +10,18 @@
 			"borderColor": "#919191",
 			"separatorColor": "#919191",
 
-			"selectionBackground": "#184880",
-			"selectionForeground": "#ffffff",
-			"selectionInactiveBackground": "#184880"
+			"selectionBackground": "#0D293E",
+			"selectionForeground": "#bbbbbb",
+			"selectionInactiveBackground": "#FFFFFF"
 		},
 		"Menu": {
 			"acceleratorForeground": "#000000",
 			"borderPainted": false
 		},
 		"Tree": {
-			"background": "#f0f0f0",
+			"background": "3C3F41",
 			"dropLineColor": "#999999",
-			"foreground": "#000000"
+			"foreground": "#BBBBBB"
 		}
 	}
 }
