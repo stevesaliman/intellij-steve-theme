@@ -9,18 +9,29 @@
 			"foreground": "#000000",
 			"borderColor": "#919191",
 			"separatorColor": "#919191",
-
 			"selectionBackground": "#184880",
 			"selectionForeground": "#ffffff",
 			"selectionInactiveBackground": "#184880"
 		},
-		"Menu": {
-			"acceleratorForeground": "#000000",
-			"borderPainted": false
+		"Button": {
+			"startBackground": "#4a4948",
+			"endBackground": "#3b3a39",
+			"startBorderColor": "4a4948",
+			"endBorderColor": "3b3a39",
+			"default": {
+				"foreground": "#000000",
+				"startBackground": "#4a4948",
+				"endBackground": "#3b3a39",
+				"startBorderColor": "#5680af",
+				"endBorderColor": "#5680af"
+			}
 		},
+		"Menu": {
+			"acceleratorForeground": "#000000"
+		},
+		"MenuBar.borderColor": "#006060",
 		"Tree": {
 			"background": "#f0f0f0",
-			"dropLineColor": "#999999",
 			"foreground": "#000000"
 		}
 	}

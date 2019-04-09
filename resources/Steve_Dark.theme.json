@@ -14,13 +14,25 @@
 			"selectionForeground": "#bbbbbb",
 			"selectionInactiveBackground": "#FFFFFF"
 		},
-		"Menu": {
-			"acceleratorForeground": "#000000",
-			"borderPainted": false
+		"Button": {
+			"startBackground": "#4a4948",
+			"endBackground": "#3b3a39",
+			"startBorderColor": "4a4948",
+			"endBorderColor": "3b3a39",
+			"default": {
+				"foreground": "#000000",
+				"startBackground": "#4a4948",
+				"endBackground": "#3b3a39",
+				"startBorderColor": "#5680af",
+				"endBorderColor": "#5680af"
+			}
 		},
+		"Menu": {
+			"acceleratorForeground": "#000000"
+		},
+		"MenuBar.borderColor": "#006060",
 		"Tree": {
 			"background": "3C3F41",
-			"dropLineColor": "#999999",
 			"foreground": "#BBBBBB"
 		}
 	}
