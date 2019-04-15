@@ -26,13 +26,21 @@
 				"endBorderColor": "#5680af"
 			}
 		},
+		"ComboBox.background": "#FFFFFF",
+		"ComboBox.ArrowButton.background": "#FFFFFF",
+		"ComboBoxButton.background": "#474645",
+		"List.background": "#FFFFFF",
 		"Menu": {
 			"acceleratorForeground": "#000000"
 		},
 		"MenuBar.borderColor": "#006060",
+		"SearchEverywhere.SearchField.background": "#FFFFFF",
+		"TextArea.background": "#FFFFFF",
+		"TextField.background": "#FFFFFF",
 		"Tree": {
 			"background": "#f0f0f0",
 			"foreground": "#000000"
-		}
+		},
+
 	}
 }
