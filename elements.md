@@ -1,6 +1,12 @@
 Some elements I've discovered:
 
-- Button.*: The rest of the buttons on the screen.
+- Button.*: The rest of the buttons on the screen.  There are several properties
+  in use.  In general, the button has a color, then a 1 pixel "halo" if it is 
+  the default button, then a 2 or 3 pixel border.  The startBackground and 
+  endBackground define the color of the button itself.  The halo comes from
+  default.StartBorderColor and defaultEndBorderColor.  The background defines 
+  the border when the button is not selected.  I haven't figured out where the
+  border for a selected button comes from yet.
 - Button.default.*: The default button in a group of buttons.
 - ComboBox.background: the color of the drop down part of the combo box.
 - ComboBoxButton.*: Attributes of a combo box that looks like a button, like
@@ -35,4 +41,3 @@ plugin to get the colors to take.
 TODO
 ====
 
-- The color of the background in the preference pane.

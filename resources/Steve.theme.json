@@ -5,8 +5,6 @@
 	"editorScheme": "/Steve.xml",
 	"ui": {
 		"*": {
-			"background": "#006060",
-			"foreground": "#000000",
 			"borderColor": "#919191",
 			"separatorColor": "#919191",
 			"selectionBackground": "#184880",
@@ -14,6 +12,7 @@
 			"selectionInactiveBackground": "#184880"
 		},
 		"Button": {
+			"background": "006060",
 			"startBackground": "#4a4948",
 			"endBackground": "#3b3a39",
 			"startBorderColor": "4a4948",
@@ -26,21 +25,21 @@
 				"endBorderColor": "#5680af"
 			}
 		},
-		"ComboBox.background": "#FFFFFF",
-		"ComboBox.ArrowButton.background": "#FFFFFF",
 		"ComboBoxButton.background": "#474645",
-		"List.background": "#FFFFFF",
 		"Menu": {
-			"acceleratorForeground": "#000000"
+			"acceleratorForeground": "#000000",
+			"background": "#006060"
 		},
 		"MenuBar.borderColor": "#006060",
-		"SearchEverywhere.SearchField.background": "#FFFFFF",
-		"TextArea.background": "#FFFFFF",
-		"TextField.background": "#FFFFFF",
+		"Panel.background": "#006060",
+		"PopupMenu.background": "#006060",
+		"SearchEverywhere": {
+			"Header.background": "#006060",
+			"Tab.selectedBackground": "#008080"
+		},
 		"Tree": {
 			"background": "#f0f0f0",
 			"foreground": "#000000"
-		},
-
+		}
 	}
 }
