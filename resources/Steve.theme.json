@@ -25,6 +25,9 @@
 				"endBorderColor": "#5680af"
 			}
 		},
+		"CheckBox": {
+			"background": "#006060"
+		},
 		"ComboBoxButton.background": "#474645",
 		"Menu": {
 			"acceleratorForeground": "#000000",
@@ -37,6 +40,7 @@
 			"Header.background": "#006060",
 			"Tab.selectedBackground": "#008080"
 		},
+		"Slider.background": "#006060",
 		"Tree": {
 			"background": "#f0f0f0",
 			"foreground": "#000000"

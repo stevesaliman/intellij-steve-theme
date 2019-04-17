@@ -2,19 +2,17 @@
 	"name": "Steve-Dark",
 	"dark": true,
 	"author": "Steven C. Saliman",
-	"editorScheme": "/Steve_Dark.xml",
+	"editorScheme": "/Steve.xml",
 	"ui": {
 		"*": {
-			"background": "#006060",
-			"foreground": "#000000",
 			"borderColor": "#919191",
 			"separatorColor": "#919191",
-
 			"selectionBackground": "#0D293E",
 			"selectionForeground": "#bbbbbb",
 			"selectionInactiveBackground": "#FFFFFF"
 		},
 		"Button": {
+			"background": "#006060",
 			"startBackground": "#4a4948",
 			"endBackground": "#3b3a39",
 			"startBorderColor": "4a4948",
@@ -27,10 +25,22 @@
 				"endBorderColor": "#5680af"
 			}
 		},
+		"CheckBox": {
+			"background": "#006060"
+		},
+		"ComboBoxButton.background": "#474645",
 		"Menu": {
-			"acceleratorForeground": "#000000"
+			"acceleratorForeground": "#000000",
+			"background": "#006060"
 		},
 		"MenuBar.borderColor": "#006060",
+		"Panel.background": "#006060",
+		"PopupMenu.background": "#006060",
+		"SearchEverywhere": {
+			"Header.background": "#006060",
+			"Tab.selectedBackground": "#008080"
+		},
+		"Slider.background": "#006060",
 		"Tree": {
 			"background": "3C3F41",
 			"foreground": "#BBBBBB"

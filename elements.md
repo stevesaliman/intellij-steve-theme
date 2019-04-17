@@ -41,3 +41,6 @@ plugin to get the colors to take.
 TODO
 ====
 
+- The background of the checkbox in the exit menu that asks "Do not show again"
+- Checkboxes in preferences - Got the background, not the box itself, which may
+  be fine.
