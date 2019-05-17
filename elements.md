@@ -32,7 +32,7 @@ To Change the editor pane's scrollbar:
 
 http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_extras.html#customizing-editor-scroll-bar-colors
 
-To change the Editor Scheme in the UI Theme, edit the sceme's XML file.  However
+To change the Editor Scheme in the UI Theme, edit the scheme's XML file.  However
 Locally imported schemes will override whatever is in the theme.  To fix this,
 Go to Preferences -> Editor -> Color Scheme.  If the theme name shows up, and 
 it is not in bold, you will need to delete the scheme and re-apply the theme
@@ -44,3 +44,4 @@ TODO
 - The background of the checkbox in the exit menu that asks "Do not show again"
 - Checkboxes in preferences - Got the background, not the box itself, which may
   be fine.
+- Tooltip slider background in preferences

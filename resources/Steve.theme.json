@@ -12,13 +12,14 @@
 			"selectionInactiveBackground": "#184880"
 		},
 		"Button": {
-			"background": "006060",
+			"background": "#006060",
+			"foreground": "#e8e6e3",
 			"startBackground": "#4a4948",
 			"endBackground": "#3b3a39",
-			"startBorderColor": "4a4948",
-			"endBorderColor": "3b3a39",
+			"startBorderColor": "#4a4948",
+			"endBorderColor": "#3b3a39",
 			"default": {
-				"foreground": "#000000",
+				"foreground": "#e8e6e3",
 				"startBackground": "#4a4948",
 				"endBackground": "#3b3a39",
 				"startBorderColor": "#5680af",
