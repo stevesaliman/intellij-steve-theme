@@ -22,3 +22,6 @@ To build and install:
 3. Go to plugins. Click the gear and choose "Install from file".
 4. Choose the file.
 5. Restart and choose the theme.
+6. If the font is too big, look at the font in the Theme's XML file, then go
+  to Settings | Editor | Color Scheme | Color Scheme Font and make sure the 
+  font and size are correct.
