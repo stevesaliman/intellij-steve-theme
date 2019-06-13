@@ -6,7 +6,8 @@
 	"ui": {
 		"*": {
 			"borderColor": "#919191",
-			"separatorColor": "#919191",
+			"focusedBorderColor": "#184880",
+			"separatorColor": "#008080",
 			"selectionBackground": "#184880",
 			"selectionForeground": "#ffffff",
 			"selectionInactiveBackground": "#184880"
@@ -29,18 +30,25 @@
 		"CheckBox": {
 			"background": "#006060"
 		},
+		"ComboBox.ArrowButton.nonEditableBackground": "#474645",
 		"ComboBoxButton.background": "#474645",
+		"Component": {
+			"focusColor": "#184880"
+		},
 		"Menu": {
 			"acceleratorForeground": "#000000",
 			"background": "#006060"
 		},
 		"MenuBar.borderColor": "#006060",
+		"NavBar.borderColor": "#008080",
 		"Panel.background": "#006060",
 		"PopupMenu.background": "#006060",
+		"RadioButton.background": "#006060",
 		"SearchEverywhere": {
 			"Header.background": "#006060",
 			"Tab.selectedBackground": "#008080"
 		},
+		"Separator.separatorColor": "#919191",
 		"Slider.background": "#006060",
 		"Tree": {
 			"background": "#f0f0f0",
