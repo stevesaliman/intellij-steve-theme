@@ -39,6 +39,7 @@
 			"acceleratorForeground": "#000000",
 			"background": "#006060"
 		},
+		"MainMenu.background": "#006060",
 		"MenuBar.borderColor": "#006060",
 		"NavBar.borderColor": "#008080",
 		"Panel.background": "#006060",

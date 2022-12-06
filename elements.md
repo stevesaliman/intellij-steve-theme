@@ -26,6 +26,7 @@ Some elements I've discovered:
   editor tabs and file tree for the types of files mapped to the color.
 - Group.separatorColor: The lines that divide sections of a panel like the 
   Preferences -> Appearance -> Appearance screen.
+- MainMenu.background: The color of the main menu in IntelliJ 2022.3+
 - Menu.separatorColor: The horizontal lines between menu items.
 - MenuBar.borderColor: The bottom separator of the menu.
 - NavBar.borderColor: The top separator of the NavBar (file breadcrumb), or the
