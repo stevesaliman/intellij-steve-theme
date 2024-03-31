@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>net.saliman.intellij.theme</id>
   <name>Steve's GTK Themes</name>
-  <version>1.1</version>
+  <version>1.2</version>
   <vendor email="support@saliman.net" url="http://www.saliman.net">Steve</vendor>
 
   <description><![CDATA[
