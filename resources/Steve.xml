@@ -57,7 +57,7 @@
     </option>
     <option name="BASH.NUMBER">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
     <option name="BASH.SHEBANG">
@@ -68,12 +68,12 @@
     </option>
     <option name="BASH.STRING">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
     <option name="BASH.STRING2">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
     <option name="BASH.VAR_DEF">
@@ -143,7 +143,7 @@
     </option>
     <option name="CSS.NUMBER">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
@@ -154,13 +154,13 @@
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.STRING">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -172,7 +172,7 @@
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -190,12 +190,12 @@
     </option>
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
     <option name="CUSTOM_STRING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -259,7 +259,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -267,7 +267,7 @@
     <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -321,7 +321,7 @@
     <option name="ECMAL4.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="800000" />
+        <option name="BACKGROUND" value="b00000" />
       </value>
     </option>
     <option name="ECMAL4.KEYWORD">
@@ -399,7 +399,7 @@
     <option name="Invalid string escape">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="800000" />
+        <option name="BACKGROUND" value="b00000" />
       </value>
     </option>
     <option name="JAVA_DOC_MARKUP">
@@ -426,7 +426,7 @@
     </option>
     <option name="JSP_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -466,7 +466,7 @@
     </option>
     <option name="PROPERTIES.VALUE">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -487,17 +487,17 @@
     </option>
     <option name="PUPPET_NUMBER">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
     <option name="PUPPET_SQ_STRING">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
     <option name="PUPPET_STRING">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
     <option name="PUPPET_VARIABLE">
@@ -528,12 +528,12 @@
     </option>
     <option name="QL_NUMBER">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
     <option name="QL_STRING">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -550,7 +550,7 @@
     </option>
     <option name="String">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -592,7 +592,7 @@
     </option>
     <option name="YAML_TEXT">
       <value>
-        <option name="FOREGROUND" value="800000" />
+        <option name="FOREGROUND" value="b00000" />
       </value>
     </option>
   </attributes>
