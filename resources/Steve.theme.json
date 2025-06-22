@@ -41,7 +41,7 @@
 		},
 		"MenuItem": {
 			"background": "#006060",
-			"foreground": "000000"
+			"foreground": "#000000"
 		},
 		"MainMenu.background": "#006060",
 		"MenuBar.borderColor": "#006060",
@@ -58,6 +58,7 @@
 		"Tree": {
 			"background": "#f0f0f0",
 			"foreground": "#000000"
-		}
+		},
+		"Debugger.Variables.valueForeground": "#000000"
 	}
 }

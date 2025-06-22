@@ -12,7 +12,9 @@ Go to Help | Edit Custom Properties.  Add `idea.is.internal=true` to the file
 that gets opened.  Restart Idea
 
 To open the UI inspector panel:
-Tools | Internal Actions | UI | UI Inspector.  Then Ctrl-Alt-Click to open.
+Tools | Internal Actions | UI | UI Inspector.  Or Ctrl-Alt-Click on an element to open the inspector
+on the element that was clicked.
+
 To open the LaF panel:
 Tools | Internal Actions | UI | LaF Defaults
 
