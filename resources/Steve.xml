@@ -1,4 +1,4 @@
-<scheme name="Steve" version="142" parent_scheme="Default">
+<scheme name="Steve" version="131" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-04-11T14:57:56</property>
@@ -268,7 +268,6 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="b00000" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
@@ -380,10 +379,39 @@
         <option name="FOREGROUND" value="36f0f0" />
       </value>
     </option>
+    <option name="INLAY_BUTTON_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="EFFECT_COLOR" value="ffffff" />
+      </value>
+    </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ededed" />
+      </value>
+    </option>
+    <option name="INLAY_HINT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="ededed" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="bcdaf7" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="cccccc" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
